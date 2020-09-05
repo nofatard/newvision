@@ -1,2 +1,3 @@
-# newvision
-# newvision
+# maven-project
+
+Simple Maven Project
